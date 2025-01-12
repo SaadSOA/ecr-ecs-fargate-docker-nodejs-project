@@ -15,7 +15,7 @@ git clone https://github.com/saasscaleup/nodejs-ssl-server.git
 ```
 
 ```
-cd nodejs-ssl-server
+cd ecr-ecs-fargate-docker-nodejs-project
 ```
 
 ```
