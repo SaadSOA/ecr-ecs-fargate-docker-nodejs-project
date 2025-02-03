@@ -11,7 +11,7 @@ Follow next steps in order to install nodejs app and create a dockerimage
 ### Step 1 - Git clone 
 
 ```
-git clone https://github.com/SaadSOA/ecr-ecs-fargate-docker-nodejs-project
+git clone https://github.com/SaadSOA/ecr-ecs-fargate-docker-nodejs-project.git
 ```
 
 ```
